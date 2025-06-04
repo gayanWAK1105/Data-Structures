@@ -1,5 +1,6 @@
 # Data-Structures
 BECS 21223 
+Q1
 
 class Stack1 {
     private int max;
